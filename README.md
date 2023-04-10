@@ -5,8 +5,7 @@ The app is built using modern React practices, including functional components, 
 
 Some of the key features of this app include:
 
-Easy note creation: Simply click the "New Note" button and start typing!
-Note editing: Edit the contents of your notes at any time.
+Easy note creation: Simply type your note text and hit "Save"!
 Note deletion: Easily delete notes you no longer need.
 Persistent storage: Your notes are stored in local storage, so they're always available, even if you close or refresh the app.
 Modern React practices: This app is built using the latest and greatest in React, including functional components, hooks, and the Context API.
