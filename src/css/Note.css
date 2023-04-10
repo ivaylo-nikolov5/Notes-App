@@ -1,0 +1,36 @@
+.noteContainer {
+    padding: 1vh 1vw;
+    width: 300px;
+    height: auto;
+    border-radius: 4px;
+    transition: all ease-in-out 0.3s;
+}
+
+.noteText {
+    margin: 0;
+    height: 190px;
+    font-size: 1.2rem;
+}
+
+.noteInfo {
+    display: flex;
+    align-items: center;
+}
+
+.noteDate {
+    margin-left: 8px;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.fa-trash {
+    margin-left: auto;
+    margin-right: 8px;
+    scale: 1.1;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+
+.fa-trash:hover {
+    color: red;
+}

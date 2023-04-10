@@ -1,0 +1,24 @@
+.searchbarContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vh 1vw;
+    margin-top: 1vh;
+    transition: all ease-in-out 0.3s;
+    border-radius: 1000px;
+}
+
+.fa-magnifying-glass {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.searchbar {
+    border: 0;
+    width: 80vw;
+    height: 4vh;
+    font-size: 1.2rem;
+    transition: all ease-in-out 0.3s;
+    outline: none;
+    border-radius: 500px;
+}
