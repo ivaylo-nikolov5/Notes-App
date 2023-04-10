@@ -1,4 +1,4 @@
-React Notes App
+<h1>React Notes App</h1>
 This is a simple notes app built with React, designed to help you keep track of your thoughts and ideas. With this app, you can create new notes, edit existing notes, and delete notes you no longer need.
 
 The app is built using modern React practices, including functional components, hooks, and state management with the Context API. It uses local storage to persist your notes across sessions, so you don't have to worry about losing your data if you close the app or refresh your browser.
